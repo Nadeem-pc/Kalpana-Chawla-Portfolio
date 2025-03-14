@@ -44,7 +44,6 @@ body {
     text-shadow: 0 0 10px cyan;
 }
 
-/* Hero Section */
 .hero {
     height: 100vh;
     display: flex;
@@ -78,7 +77,6 @@ body {
     }
 }
 
-/* Hero Content */
 .content {
     position: relative;
     z-index: 1;
@@ -100,7 +98,6 @@ body {
     min-height: 1.5em;
 }
 
-/* Explore Button */
 .explore-btn {
     margin-top: 30px;
     padding: 12px 25px;
@@ -163,7 +160,6 @@ section::before {
 }
 
 /* About Section */
-/* About Section */
 .about-content {
     display: flex;
     flex-wrap: wrap;
@@ -178,11 +174,10 @@ section::before {
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);
-    height: 600px; /* Set an appropriate height */
+    height: 600px;
     background: url('MainImage.jpg') center/cover no-repeat;
 }
 
-/* Remove this if you're going to use background image instead of img tag */
 .about-image img {
     display: none;
 }
