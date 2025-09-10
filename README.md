@@ -15,6 +15,6 @@ I chose to build a **tribute portfolio** for **Kalpana Chawla**, the first India
 ## 🛠️ Tech Stack Used  
 - 🔹 **HTML** – Structuring the webpage  
 - 🔹 **CSS** – Styling & responsiveness  
-- 🔹 **JavaScript** – Interactive elements  
+- 🔹 **JavaScript** – Interactive element 
 
 ---
